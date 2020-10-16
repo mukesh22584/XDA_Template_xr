@@ -1,0 +1,55 @@
+[CENTER][IMG="Xtended"]https://i.postimg.cc/N0Kt6zqj/template-Head.png[/IMG][/CENTER]
+
+[CENTER][B]Disclaimer[/B][CODE]
+* We're not responsible for bricked devices, dead SD card or anything happens with your device
+* Flash on your own risk/knowledge.
+[/CODE][/CENTER]
+
+[B]INTRODUCTION: [/B]
+[QUOTE]
+*** Ohh Really we need to introduce! ;). We team "[B]MSM Xtended[/B]" are here with new era of Android. We have tried our best to blend it with all available options, features and stability of different ROMs in to one for better user experience.***
+[/QUOTE]
+
+[B]TEAM XTENDED: [MENTION=5678679]mukesh22584[/MENTION] | [MENTION=8829870]SuperDroidBond[/MENTION] | [MENTION=7072514]mady51[/MENTION] | [MENTION=7916453]anishpratheepan[/MENTION] | [MENTION=9478258]xawlw[/MENTION] | [MENTION=8425394]SonalSingh18[/MENTION] | [MENTION=5545371]Roger.T[/MENTION] | [MENTION=7030109]mcdachpappe[/MENTION] | [MENTION=7077053]svandasek[/MENTION] | [MENTION=4479268]Jay_B[/MENTION] | [MENTION=7107153]Ded_Boi[/MENTION] [/B] 
+
+[B]FEATURES: [URL="https://blog.msmxtended.org/features/"]Get Feature list from HERE[/URL] [/B]
+
+[B]DONATIONS: [URL=https://www.paypal.me/superdroidbond]SuperDroidBond[/URL] | [URL=https://www.paypal.me/mukesh22584]mukesh22584[/URL] | [URL=https://www.paypal.me/mady51]mady51[/URL] [/B]
+
+[B] SUPPORT LINK: [URL="https://t.me/XtendedOfficial"]MSM-X Telegram Public Group[/URL] [/B]
+
+[B]ROM DOWNLOADS: [URL="https://downloads.msmxtended.org"]MSM-Xtended ROM[/URL] [/B]
+
+[B]GAPPS DOWNLOADS: [URL="Refer recomended GApps package URL link"]Flame GApps[/URL] [/B]
+
+[B] INSTRUCTIONS: [URL="Refer instruction post link here"]Click HERE [/URL] [/B]
+
+[B]ROM SOURCE: [URL="https://github.com/Project-Xtended"]Project-Xtended ROM Sources[/URL] [/B]
+
+[B]KERNEL SOURCE: [URL="https://github.com/Xtended-Devices"]Our Official Devices Sources [/URL] [/B]
+
+[B]CREDIT & THANKS: [/B][HIDE][QUOTE]
+We would like to give thanks to everyone in the Android community, big or small.
+That said, we would like to Thank all These Teams for their contribution to the Open Source Community.
+[LIST]
+[*][URL=https://github.com/LineageOS][B]LineageOS/Cyanogenmod[/B][/URL]
+[*][URL=https://github.com/GZOSP][B]GZOSP[/B][/URL]
+[*][URL=https://github.com/Colt-Enigma][B]ColtOS Team & Specially @Rakesh.Batra[/B][/URL]
+[*][URL=https://github.com/OmniRom][B]OmniROM[/B][/URL]
+[*][URL=https://github.com/Nitrogen-Project][B]Nitrogen OS[/B][/URL]
+[*][URL=https://github.com/AICP][B]AICP[/B][/URL]
+[*][URL=https://github.com/CrDroidAndroid][B]crDroid[/B][/URL]
+[*][URL=https://github.com/DirtyUnicorns][B]DirtyUnicorns[/B][/URL]
+[*][URL=https://github.com/ScrewdAOSP][B]Screwd AOSP[/B][/URL]
+[*][URL=https://github.com/CypherOS][B]CypherOS[/B][/URL]
+[*][URL=https://github.com/LiquidRemix][B]Liquid Remix[/B][/URL]
+[*][URL=https://github.com/BenzoROM][B]Benzo ROM[/B][/URL]
+[*][URL=https://github.com/BootLeggersRom][B]BootLeggers ROM[/B][/URL]
+[*][URL=https://github.com/AospExtended][B]AOSP Extended ROM[/B][/URL]
+[*][URL=https://github.com/Syberia-Project][B]Syberia-Project[/B][/URL]
+[*][URL=https://github.com/PixelDust-Project-X][B]PixelDust Project[/B][/URL]
+[*][URL=https://github.com/PixelExperience][B]Pixel Experience[/B][/URL][/LIST]
+
+**[B]If we have left someone or some team, we apologize and please PM us. We would be very happy to include your name as well.**
+[/HIDE][/QUOTE]
+
